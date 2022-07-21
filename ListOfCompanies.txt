@@ -1,0 +1,65 @@
+Abbott
+AbbVie
+Abiomed
+Agilent Technologies
+Align
+AmerisourceBergen
+Amgen
+Anthem
+Baxter
+Becton Dickinson
+Bio-Rad
+Bio-Techne
+Biogen
+Boston Scientific
+Bristol Myers Squibb
+Cardinal Health
+Catalent
+Centene
+Cerner
+Charles River
+Cigna
+CooperCompanies
+CVS Health
+Danaher
+DaVita
+Dentsply Sirona
+DexCom
+Edwards Lifesciences
+Gilead
+HCA Healthcare
+Henry Schein
+Hologic
+Humana
+Idexx Laboratories
+Illumina
+Incyte
+Intuitive Surgical
+IQVIA
+Johnson & Johnson
+LabCorp
+Lilly
+McKesson
+Medtronic
+Merck
+Mettler Toledo
+Moderna
+Molina Healthcare
+Organon
+PerkinElmer
+Pfizer
+Quest Diagnostics
+Regeneron
+ResMed
+Steris
+Stryker
+Teleflex
+Thermo Fisher Scientific
+UnitedHealth Group
+Universal Health Services
+Vertex
+Viatris
+Waters
+West Pharmaceutical Services
+Zimmer Biomet
+Zoetis

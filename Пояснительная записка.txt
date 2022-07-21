@@ -1,0 +1,22 @@
+Для выполнения задачи 1 запустить Main_code.py.
+Будет создано три файла:
+"Conditions.csv", "Phases.csv" и "Conditions_sum_up.csv" (где суммируется количество анализов)
+
+Результат второй задачи будет создан в том же коде - файл "Drugs.csv"
+
+Третья задача выполняется кодом "Interventions.csv". При это создатутся файлы:
+"Interventions.csv" - полное распределение по препаратам
+"Interventions.txt" - полное распределение по препаратам для целевого заболевания
+"drugs_competitors.txt" - наиболее часто встречающиеся препараты для цел. заболевания в разрезе компаний
+
+Файл "Functions.py" - вспомогательные функции
+
+Библиотеки для установки:
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
+import traceback
+import urllib3
+import xmltodict
+import os
+
